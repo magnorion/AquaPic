@@ -1,0 +1,21 @@
+{
+  "name": "aquapic",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "magnorion <lucas_front@yahoo.com.br>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/magnorion/AquaPic",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
